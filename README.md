@@ -3,4 +3,4 @@
 
 Note Saver is an easy and free to use solution to saving your notes with no clutter compared to making a bunch of paste bins or trying to put it in discord while having that 2000 character limit.
 
-#**ill release the source code once i figure out how lmao**
+**ill release the source code once i figure out how lmao**
